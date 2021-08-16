@@ -1,1 +1,3 @@
-I am Bisrat Awaye from ALX# zero_day
+I am Bisrat Awaye from ALX
+to be software engineer
+# zero_day
